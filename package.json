@@ -10,8 +10,8 @@
     "request": "^2.88.2"
   },
   "devDependencies": {
-    "ava": "^3.5.0",
-    "eslint": "^6.8.0"
+    "ava": "^5.1.1",
+    "eslint": "^8.32.0"
   },
   "scripts": {
     "test": "./node_modules/.bin/ava test/index.js",
