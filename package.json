@@ -1,6 +1,6 @@
 {
-  "name": "telebot",
-  "version": "1.4.1",
+  "name": "@ponomarevlad/telebot",
+  "version": "1.4.1-update.1",
   "description": "The easy way to write Telegram bots.",
   "main": "lib/telebot.js",
   "engines": {
@@ -31,6 +31,9 @@
     "telegram bot",
     "telegram bot api"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "Mullwar <mullwar@gmail.com>",
   "license": "MIT",
   "bugs": {
