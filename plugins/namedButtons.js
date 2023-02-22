@@ -2,7 +2,7 @@
     Named buttons which triggers bot commands.
 */
 
-module.exports = {
+export default  {
 
     id: 'namedButtons',
     defaultConfig: {

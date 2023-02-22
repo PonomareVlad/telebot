@@ -2,7 +2,7 @@
     Adds RegExp support to text event messages.
 */
 
-module.exports = {
+export default  {
 
     id: 'regExpMessage',
 

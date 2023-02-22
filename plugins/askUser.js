@@ -4,7 +4,7 @@
 
 const userList = {};
 
-module.exports = {
+export default  {
 
     id: 'askUser',
     defaultConfig: {

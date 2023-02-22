@@ -2,7 +2,7 @@
     Use commands in buttons.
 */
 
-module.exports = {
+export default {
 
     id: 'commandButton',
     defaultConfig: {

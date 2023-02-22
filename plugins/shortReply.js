@@ -20,7 +20,7 @@ const SHORTCUTS = {
     }
 };
 
-module.exports = {
+export default {
 
     id: 'shortReply',
 

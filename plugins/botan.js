@@ -3,7 +3,7 @@
     Requires "botanio" npm package.
 */
 
-module.exports = {
+export default  {
 
     id: 'botan',
     defaultConfig: null,

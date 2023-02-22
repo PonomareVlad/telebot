@@ -1,6 +1,6 @@
 const startDate = {};
 
-module.exports = {
+export default  {
 
     id: 'ignoreMessagesBeforeStart',
 

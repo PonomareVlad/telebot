@@ -6,7 +6,7 @@
 const userList = {};
 
 // Export bot module
-module.exports = {
+export default  {
 
     id: 'floodProtection',
     defaultConfig: {

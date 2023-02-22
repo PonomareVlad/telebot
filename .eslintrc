@@ -1,11 +1,12 @@
-module.exports = {
+{
     "env": {
         "es6": true,
         "node": true
     },
     "extends": "eslint:recommended",
     "parserOptions": {
-        "ecmaVersion": 2017
+        "sourceType": "module",
+        "ecmaVersion": "latest"
     },
     "rules": {
         "no-console": "off",
@@ -17,4 +18,4 @@ module.exports = {
         "keyword-spacing": ["error", { "before": true }],
         "space-before-blocks": "error"
     }
-};
+}

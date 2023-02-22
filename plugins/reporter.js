@@ -7,7 +7,7 @@
     }
 */
 
-module.exports = {
+export default {
 
     id: 'reporter',
 
